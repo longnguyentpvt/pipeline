@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d59b6f59-5e2e-44e5-9798-9725971c0e55" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -218,12 +218,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558276150609</updated>
       <workItem from="1558276197981" duration="1273000" />
-      <workItem from="1558277564316" duration="677000" />
+      <workItem from="1558277564316" duration="756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1950000" />
+    <option name="totallyTimeSpent" value="2029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="535" y="11" width="1283" height="944" extended-state="1" />
@@ -246,7 +246,7 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3988024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3988024" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Terminal" order="9" />
