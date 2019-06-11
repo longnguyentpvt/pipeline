@@ -6,7 +6,11 @@
 
     <groupId>first-pipline</groupId>
     <artifactId>first-pipline</artifactId>
-    <version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
+	
+	<properties>
+		<jar.finalName>first-pipeline</jar.finalName>
+	</properties>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
