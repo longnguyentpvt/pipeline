@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files:
+  - source: first-pipline-1.0.jar
+    destination: /home/ubuntu/backend
