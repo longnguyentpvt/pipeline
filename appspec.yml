@@ -3,3 +3,10 @@ os: linux
 files:
   - source: first-pipline-1.0.jar
     destination: /home/ubuntu/backend
+hooks:
+  BeforeInstall:
+    - location: stopapp.sh
+      runas: ubuntu
+  ApplicationStart:
+    - location: startapp.sh
+      runas: ubuntu
